@@ -217,7 +217,7 @@ int main() {
         cout << "2. Input Elemen List\n";
         cout << "3. Insert First\n";
         cout << "4. Insert Last\n";
-        cout << "5. Insert After Key\n";
+        cout << "5. Insert After\n";
         cout << "6. Delete First\n";
         cout << "7. Delete Last\n";
         cout << "8. Delete by Value\n";
