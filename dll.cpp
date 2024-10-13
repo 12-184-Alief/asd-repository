@@ -271,7 +271,7 @@ int main() {
             cin >> value;
             DeleteByValue(value);
             break;
-        case 9: // Fitur DeleteByValue
+        case 9: // Fitur ReversePrintList
             ReversePrintList();
             break;
         case 10: // Exit program
